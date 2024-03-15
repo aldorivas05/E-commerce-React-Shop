@@ -1,8 +1,7 @@
-import React from 'react';
-import '@styles/SendEmail.scss';
-
-import emailImage from '@icons/email.svg';
-import logoYardSale from '@logos/logo_yard_sale.svg';
+import React 		from 'react';
+import logoYardSale from '../assets/logos/favicon_yard_sale.svg';
+import emailImage 	from '../assets/icons/email.svg';
+import '../styles/SendEmail.scss';
 
 
 const SendEmail = () => {

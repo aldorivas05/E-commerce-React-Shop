@@ -1,7 +1,7 @@
 import React from 'react';
-import '@styles/OrderItem.scss';
+import '../styles/OrderItem.scss';
 
-import iconClose from '@icons/icon_close.png';
+import iconClose from '../assets/logos/logo_bota_fora.svg';
 
 const OrderItem = () => {
 	return (

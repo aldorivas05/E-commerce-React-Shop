@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import '@styles/Header.scss';
+import '../styles/Header.scss';
 import Menu from './Menu';
 
-import menu from '@icons/icon_menu.svg';
-import logo from '@logos/logo_yard_sale.svg';
-import shoppingCard from '@icons/icon_shopping_cart.svg';
+import menu from '../assets/icons/icon_menu.svg';
+import logo from '../assets/logos/logo_yard_sale.svg';
+import shoppingCard from '../assets/icons/icon_shopping_cart.svg';
 
 
 
