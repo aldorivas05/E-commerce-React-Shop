@@ -6,7 +6,7 @@ const { Component } = require('react');
 module.exports = {
 	entry: './src/index.js',
 	output: {
-		path: path.resolve(__dirname, 'dist'),
+		path: path.resolve(__dirname, 'build'), // Cambia 'dist' por 'build'
 		filename: 'bundle.js',
 		publicPath: '/'
 	},
