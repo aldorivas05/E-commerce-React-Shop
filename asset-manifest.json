@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Commerce-React-Shop/static/css/main.bec2c94f.css",
-    "main.js": "/E-Commerce-React-Shop/static/js/main.01e78cc8.js",
+    "main.js": "/E-Commerce-React-Shop/static/js/main.53dde393.js",
     "static/media/logo_bota_fora.svg": "/E-Commerce-React-Shop/static/media/logo_bota_fora.a21d620f3b347c832b4e81d69a3a0c14.svg",
     "static/media/logo_yard_sale.svg": "/E-Commerce-React-Shop/static/media/logo_yard_sale.f5c1d07e0dba172463639e02bacccd32.svg",
     "static/media/bt_add_to_cart.svg": "/E-Commerce-React-Shop/static/media/bt_add_to_cart.c13587f7a917cacfc4722859eba06bca.svg",
@@ -11,10 +11,10 @@
     "static/media/icon_menu.svg": "/E-Commerce-React-Shop/static/media/icon_menu.3aa38c5e16715afedfa9b1adb8607b7d.svg",
     "index.html": "/E-Commerce-React-Shop/index.html",
     "main.bec2c94f.css.map": "/E-Commerce-React-Shop/static/css/main.bec2c94f.css.map",
-    "main.01e78cc8.js.map": "/E-Commerce-React-Shop/static/js/main.01e78cc8.js.map"
+    "main.53dde393.js.map": "/E-Commerce-React-Shop/static/js/main.53dde393.js.map"
   },
   "entrypoints": [
     "static/css/main.bec2c94f.css",
-    "static/js/main.01e78cc8.js"
+    "static/js/main.53dde393.js"
   ]
 }
